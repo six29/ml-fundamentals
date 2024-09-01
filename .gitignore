@@ -1,0 +1,11 @@
+env
+data
+images
+.ipynb_checkpoints
+
+*.csv
+*.png
+*.jpg
+*.pkl
+*.joblib
+NOTES.txt
